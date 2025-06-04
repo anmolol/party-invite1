@@ -1,0 +1,25 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(#ffecd2, #fcb69f);
+  text-align: center;
+  padding: 50px;
+}
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: inline-block;
+}
+.rsvp-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #ff5e57;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.rsvp-button:hover {
+  background: #ff3d3d;
+}
